@@ -1,0 +1,2 @@
+"# full-stak-courses"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/EmpireofStorm/full-stak-courses.gitgit push -u origin main
+"# full-stak-courses"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/EmpireofStorm/full-stak-courses.gitgit push -u origin main
