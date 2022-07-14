@@ -7,3 +7,16 @@ Body{
     font-size: 100%;
     font-family: sans-serif;
 }
+article{
+
+}
+div1{
+    background-color: aqua;
+    color: red;
+    font-family: cursive;
+}
+legend{
+    font-family:cursive;
+    color: rgb(40, 40, 131);
+    font-size:200%;
+}
