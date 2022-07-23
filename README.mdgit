@@ -1,2 +1,4 @@
 "# full-stak-courses"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/EmpireofStorm/full-stak-courses.gitgit push -u origin main
 "# full-stak-courses"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/EmpireofStorm/full-stak-courses.gitgit push -u origin main
+Hi there, this is the first time I am upgrading this file and i really dont know what to say about this project.
+First of all i almost complete Full stack development course by IBM at Coursera.org so check them out, it is actually a pretty cool course with a lot of different videos explaining everything you pretty much need, maybe except API like react, jshint, etc.
